@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/mnt/c/Users/unobt/Desktop/stories'
+let g:netrw_dirhist_8='/mnt/c/Users/unobt/Desktop/snorkel'
+let g:netrw_dirhist_7='/mnt/c/Users/unobt/Desktop/sandbox'
+let g:netrw_dirhist_6='/mnt/c/Users/unobt/Desktop/brg-prep'
+let g:netrw_dirhist_5='/mnt/c/Users/unobt/Desktop/passion-projects/business/useful-tools/ai-stuff'
+let g:netrw_dirhist_4='/mnt/c/Users/unobt/Desktop/passion-projects/business/useful-tools'
+let g:netrw_dirhist_3='/mnt/c/Users/unobt/Desktop/passion-projects/tools/priority-queue/priorityqueue'
+let g:netrw_dirhist_2='/mnt/c/Users/unobt/Desktop/passion-projects/tools/priority-queue'
+let g:netrw_dirhist_1='/home/unobtainiumrock/.ssh/auth'
+let g:netrw_dirhist_0='/home/unobtainiumrock/.ssh'
